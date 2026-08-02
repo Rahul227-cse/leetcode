@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rahul227-cse/leetcode/tree/master/0022-generate-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul227-cse/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rahul227-cse/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rahul227-cse/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rahul227-cse/leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
 ## Recursion
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Rahul227-cse/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
