@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul227-cse/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rahul227-cse/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rahul227-cse/leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
