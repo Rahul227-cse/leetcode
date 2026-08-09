@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Rahul227-cse/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rahul227-cse/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 | [3731-find-missing-elements](https://github.com/Rahul227-cse/leetcode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rahul227-cse/leetcode/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rahul227-cse/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
 ## Backtracking
 |  |
@@ -100,4 +104,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Rahul227-cse/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
