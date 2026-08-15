@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rahul227-cse/leetcode/tree/master/0486-predict-the-winner) |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/Rahul227-cse/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rahul227-cse/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Rahul227-cse/leetcode/tree/master/1406-stone-game-iii) |
@@ -153,4 +154,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Rahul227-cse/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
+## Cartesian Tree
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
