@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rahul227-cse/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [3310-remove-methods-from-project](https://github.com/Rahul227-cse/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rahul227-cse/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rahul227-cse/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Rahul227-cse/leetcode/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
